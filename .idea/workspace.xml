@@ -11,473 +11,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00c0f8ca-6ec9-4c59-ac8f-a7ba3e057a26" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_base_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_base_support_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_gif_0_12_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_webp_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/autolayout_1_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/bolts_tasks_1_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/butterknife_8_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/butterknife_annotations_8_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/converter_gson_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/drawee_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/eventbus_3_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fbcore_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/fresco_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/glide_3_7_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/imagepipeline_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/imagepipeline_base_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/logging_interceptor_3_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/okhttp_3_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/okio_1_11_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/reactive_streams_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/retrofit2_rxjava2_adapter_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/retrofit_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxandroid_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxbinding_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxbinding_support_v4_2_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxjava_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_android_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_components_2_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/webpsupport_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanExample.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/TanLibrary.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/androidTest/java/com/workingchat/tan/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/base/BaseAppManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/base/BaseCompatActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/base/BaseFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/base/BaseFragmentActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/base/BaseSubActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/base/BaseView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/eventbus/EventMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/imageload/BitmapMemoryCacheParamsSupplier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/imageload/FrescoImageLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/imageload/GlideImageLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/imageload/IImageLoaderstrategy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/imageload/ImageLoaderManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/imageload/ImageLoaderOptions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/loading/IVaryViewHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/loading/VaryViewHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/loading/VaryViewHelperController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/loading/VaryViewHelperX.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/netstatus/NetChangeObserver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/netstatus/NetStateReceiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/netstatus/NetUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/progress/CircularProgressBar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/progress/CircularProgressBarUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/progress/CircularProgressDrawable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/AppUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/ArithUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/ArrayUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/AssetDatabaseOpenHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/Base64Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/CharacterParser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/ClearCacheManager.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/Coder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/DensityUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/DesCoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/DigestUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/DownloadManagerPro.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/FileUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/ImageUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/ListUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/LogUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/MapUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/MathExtendUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/MyIntent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/ObjectUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/PreferencesUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/RSACoder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/RandomUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/RegexTool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/ResourceUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/ScreenUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/SerializeUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/ShellUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/SingletonUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/SizeUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/SmartBarUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/StringUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/SystemUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/TestUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/TimeUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/TransformTools.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/java/app/tan/lib/util/ViewUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/bottom_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/bottom_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/fade_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/fade_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/left_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/left_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/right_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/right_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/scale_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/scale_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/top_in.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/anim/top_out.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/layout/loading.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/layout/message.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values-en/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values-v11/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values-v21/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values/attrs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values/defaults.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TanLibrary/src/test/java/com/workingchat/tan/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/tmx/tanexamples/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/TanApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/activity/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/model/GitHubRepository.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/model/GitHubRepositorySearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/model/GitHubRepositorySearchResults.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/model/ResultWrap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/model/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/model/UserBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/model/wrap/ResposeWrap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/network/NetworkApi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/network/TanFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/network/TanInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/tmx/tanexamples/network/TanRetrofit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/test/java/com/tmx/tanexamples/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projectFilesBackup/.idea/workspace.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/adapter_rxjava_2_0_0_beta2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/butterknife_7_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/converter_gson_2_0_0_beta2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/logging_interceptor_2_6_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/okhttp_2_6_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/okhttp_urlconnection_2_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/okio_1_6_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/picasso_2_5_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/retrofit_2_0_0_beta2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxandroid_1_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxbinding_0_3_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxbinding_support_v4_0_3_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxjava_1_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxjava_math_0_21_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_0_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxlifecycle_components_0_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/HexExamples.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/androidTest/java/com/workingchat/newbee/ApplicationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/NBConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/base/BaseCompatActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/base/BaseFragmentActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/base/BaseSubActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/loading/IVaryViewHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/loading/VaryViewHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/loading/VaryViewHelperController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/loading/VaryViewHelperX.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/progress/CircularProgressDrawable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/swipeback/SwipeBackLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/swipeback/ViewDragHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/ArithUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/Base64Utils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/CharacterParser.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/ClearCacheManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/DensityUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/DesCoder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/FileUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/ImageUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/LogUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/MathExtendUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/MyIntent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/PromptManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/RSACoder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/RegexTool.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/RxUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/SmartBarUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/TimeUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/TransformTools.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/ViewUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/view/common/RatioImageView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/test/java/com/workingchat/newbee/ExampleUnitTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/hexdo/hexexamples/ApplicationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/HexApp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/HexConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/activity/GuideActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/activity/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/activity/SplashActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/activity/UserProfileActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/activity/base/BaseActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/activity/base/BaseDrawerActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/activity/base/BaseFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/activity/base/BaseSwipeBackActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/adapter/FeedAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/adapter/FeedItemAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/adapter/UserProfileAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/model/GitHubRepository.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/model/GitHubRepositorySearch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/model/GitHubRepositorySearchResults.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/model/ResultWrap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/model/User.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/model/UserBean.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/model/wrap/ResposeWrap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/network/HexFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/network/HexInterface.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/network/HexRetrofit.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/network/NetworkApi.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/utils/CircleTransformation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/utils/RoundedTransformation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/view/FeedContextMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/view/FeedContextMenuManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/view/LoadingFeedItemView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/view/RevealBackgroundView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/view/SendingProgressView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/view/SquaredFrameLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/hexdo/hexexamples/view/SquaredImageView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_in_likes_counter.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/anim/slide_out_likes_counter.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/btn_context_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v21/btn_default_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_like_circle_background.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/btn_context_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/btn_default_light.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/btn_feed_action.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/btn_following.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/expand_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_my_setting.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon_default_head.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon_home_not.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon_home_yes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon_my_no.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon_my_yes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon_xunlian_no.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon_xunlian_yes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icworn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/img_circle_placeholder.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_compat_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_drawer.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_guide.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_user_profile.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/auto_scroll_view_pager_inner_fragment_demo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/demo_item_image.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_feed_loader.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_fragment_text.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_guide.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_photo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/menu_item_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_context_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_feed_toolbar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_global_menu_header.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/menu/drawer_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/bg_container_shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_comment_outline_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_done_white_48dp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_feed_top.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_global_menu_direct.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_global_menu_feed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_global_menu_likes.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_global_menu_nearby.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_global_menu_news.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_global_menu_popular.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_global_menu_search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_heart_outline_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_heart_outline_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_heart_red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_heart_small_blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_inbox_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_instagram_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_menu_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_more_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/img_feed_bottom_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/img_feed_bottom_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/img_feed_center_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/img_feed_center_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_grid_on_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_label_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_list_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_place_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/test/java/com/hexdo/hexexamples/ExampleUnitTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/newbee-newbee.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/newbee.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/adapter/AdapterItem.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/adapter/abs/CommonAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/adapter/recycler/CommonRcvAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/adapter/util/AdapterItemUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/base/BaseAppManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/base/BaseFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/base/BaseSwipeBackCompatActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/base/BaseSwipeBackFragmentActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/base/BaseView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/base/BaseWebActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/netstatus/NetChangeObserver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/netstatus/NetStateReceiver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/netstatus/NetUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/progress/CircularProgressBar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/progress/CircularProgressBarUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/rx/SchedulersCompat.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/rx/rxviewstub/RxViewStub.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/rx/rxviewstub/ViewStubEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/rx/subscribe/ViewStubEventOnSubscribe.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/rxbus/RxBus.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/swipeback/SwipeBackActivityBase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/swipeback/SwipeBackActivityHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/swipeback/Utils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/AppUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/ArrayUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/AssetDatabaseOpenHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/Coder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/DigestUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/DownloadManagerPro.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/ListUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/MapUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/ObjectUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/PreferencesUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/RandomUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/ResourceUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/ScreenUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/SerializeUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/ShellUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/SingletonUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/SizeUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/StringUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/SystemUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/util/TestUtils.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/AbsDialog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/AlignedTextView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/AnimatedExpandableListView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/AutoScrollViewPager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/BrowserLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/ClearEditText.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/CustomDurationScroller.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/CustomScrollView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/ExpandGridView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/GridViewForScrollView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/HorizontalScrollLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/LinearLayoutForListView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/ListViewForScrollView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/MarqueeTextView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/MetaballView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/MyAutoCompleteTextView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/MyGridView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/MyListView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/PageIndicator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/ScrollTextView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/ToastAlone.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/VScrollView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/java/app/newbee/lib/view/common/ViewHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/app_exit.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/bottom_in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/bottom_out.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/fade_in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/fade_out.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/left_in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/left_out.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/right_in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/right_out.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/scale_in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/scale_out.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/top_in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/anim/top_out.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/drawable/button_blue_shape.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/drawable/edittext_delete_selector.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/drawable/input_background__tint_blue_shape.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/drawable/loading_layout_bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/drawable/progress_bar_horizontal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/drawable/simple_dialog_bg_shape.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/activity_common_web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/browser_controller.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/common_toolbar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/dialog_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/dialog_layout_in_put.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/item_fragment_text.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/loading.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/loading_circle_dialog.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/message.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/progress_horizontal.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/simple_dialog_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/sub_activity_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/swipeback_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/layout/toast_layout.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-hdpi/icworn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-hdpi/search_clear_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-hdpi/search_clear_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xhdpi/newbee_ic_back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/btn_back_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/btn_back_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/btn_export_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/btn_export_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/btn_forward_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/btn_forward_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/btn_refresh_normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/btn_refresh_pressed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/ic_error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/ic_exception.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/ic_instagram_white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/img_toolbar_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values-v11/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values-v21/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values-w820dp/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values-zh/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values/attrs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values/defaults.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values/dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values/styles.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/design_23_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/leakcanary_android_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/leakcanary_android_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/library_1_2_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/library_1_2_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_appindexing_8_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_appindexing_8_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_basement_8_1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/play_services_basement_8_1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_1_1.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/adapter/AdapterItem.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/adapter/abs/CommonAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/adapter/recycler/CommonRcvAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/adapter/util/AdapterItemUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/base/BaseAppManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/base/BaseFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/base/BaseSwipeBackCompatActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/base/BaseSwipeBackFragmentActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/base/BaseView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/base/BaseWebActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/netstatus/NetChangeObserver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/netstatus/NetStateReceiver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/netstatus/NetUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/progress/CircularProgressBar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/progress/CircularProgressBarUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/rx/SchedulersCompat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/rx/rxviewstub/RxViewStub.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/rx/rxviewstub/ViewStubEvent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/rx/subscribe/ViewStubEventOnSubscribe.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/rxbus/RxBus.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/swipeback/SwipeBackActivityBase.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/swipeback/SwipeBackActivityHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/swipeback/Utils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/AppUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/ArrayUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/AssetDatabaseOpenHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/Coder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/DigestUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/DownloadManagerPro.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/ListUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/MapUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/ObjectUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/PreferencesUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/RandomUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/ResourceUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/ScreenUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/SerializeUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/ShellUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/SingletonUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/SizeUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/StringUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/SystemUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/util/TestUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/view/common/BrowserLayout.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TanLibrary/src/main/java/app/newbee/lib/view/common/MetaballView.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/sub_activity_layout.xml" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/layout/sub_activity_layout.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/.gitignore" afterPath="$PROJECT_DIR$/TanLibrary/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/proguard-rules.pro" afterPath="$PROJECT_DIR$/TanLibrary/proguard-rules.pro" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/TanLibrary/src/main/AndroidManifest.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xhdpi/ic_error.png" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/mipmap-xxhdpi/ic_error.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xhdpi/ic_exception.png" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/mipmap-xxhdpi/ic_exception.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/newbee/src/main/res/values/drawables.xml" afterPath="$PROJECT_DIR$/TanLibrary/src/main/res/values/drawables.xml" />
     </list>
     <ignored path="HexExamples.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -525,7 +105,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
+            <state relative-caret-position="874">
               <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
@@ -617,7 +197,7 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TanLibrary/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
+            <state relative-caret-position="1159">
               <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
               <folding />
             </state>
@@ -3189,7 +2769,7 @@
         <entry key="F:/../desktop/mvp/UpcomingMoviesMVP" value="4282300546000" />
         <entry key="F:/../desktop/mvp/new" value="4295013348000" />
         <entry key="F:\androidstudio\HexExamples" value="5995458371159" />
-        <entry key="F:\androidstudio\TanExample" value="5998422191452" />
+        <entry key="F:\androidstudio\TanExample" value="5998426478463" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -3609,13 +3189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches">
-        <subPane />
-      </pane>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3769,10 +3342,6 @@
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -3784,61 +3353,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="TanLibrary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="progress" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TanExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TanExample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TanLibrary" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="base" />
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3855,8 +3370,71 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TanExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TanExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TanExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TanExample" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tanexamples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches">
+        <subPane />
       </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
@@ -4362,15 +3940,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08138239" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.09364548" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.031215161" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -4383,6 +3959,8 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.031215161" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -4577,7 +4155,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4613,7 +4190,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4637,7 +4213,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8398">
           <caret line="442" column="30" selection-start-line="441" selection-start-column="20" selection-end-line="441" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4672,7 +4247,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4698,7 +4272,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4706,7 +4279,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4714,7 +4286,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-114">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4741,7 +4312,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
+        <state relative-caret-position="874">
           <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
@@ -4763,7 +4334,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TanLibrary/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
+        <state relative-caret-position="1159">
           <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
           <folding />
         </state>
