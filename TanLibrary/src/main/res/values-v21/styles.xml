@@ -1,0 +1,6 @@
+<resources>>
+
+    <style name="CPB" parent="android:Widget.Material.ProgressBar"/>
+
+
+</resources>

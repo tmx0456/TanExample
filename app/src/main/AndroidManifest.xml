@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.hexdo.hexexamples">
-
+          package="com.tmx.tanexamples">
+    <!-- 常用的权限，自行取舍 -->
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
     <!-- For reading media from external storage. -->
@@ -33,7 +33,7 @@
             android:icon="@mipmap/ic_launcher"
             android:label="@string/app_name"
             android:supportsRtl="true"
-            android:name=".HexApp"
+            android:name=".TanApp"
             android:theme="@style/AppTheme">
         <activity android:name=".activity.MainActivity"
                   android:launchMode="singleTask"
@@ -43,12 +43,6 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".activity.UserProfileActivity"
-                  android:theme="@style/AppTheme.TransparentActivity"/>
-        <activity android:name=".activity.GuideActivity"
-                  android:theme="@style/AppTheme.TransparentActivity"/>
-        <activity android:name="app.newbee.lib.base.BaseSubActivity"
-                  android:theme="@style/AppTheme.TransparentActivity"/>
     </application>
 
 </manifest>
