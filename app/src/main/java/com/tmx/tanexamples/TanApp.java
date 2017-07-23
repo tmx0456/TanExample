@@ -10,6 +10,8 @@ import com.squareup.leakcanary.RefWatcher;
 import java.util.LinkedList;
 import java.util.List;
 
+import app.tan.lib.imageload.ImageLoaderManager;
+
 import static android.os.Build.VERSION.SDK_INT;
 import static android.os.Build.VERSION_CODES.GINGERBREAD;
 
@@ -41,6 +43,8 @@ public class TanApp extends Application {
         _refWatcher = LeakCanary.install(this);
 
         enabledStrictMode();
+
+        ImageLoaderManager.getInstance().init(this);
     }
 
     /**

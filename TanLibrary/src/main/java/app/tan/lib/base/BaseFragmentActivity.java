@@ -23,9 +23,9 @@ import java.util.Timer;
 import java.util.TimerTask;
 
 import app.tan.lib.loading.VaryViewHelperController;
-import app.tan.lib.netstatus.NetChangeObserver;
-import app.tan.lib.netstatus.NetStateReceiver;
-import app.tan.lib.netstatus.NetUtils;
+import app.tan.lib.retrofit.NetChangeObserver;
+import app.tan.lib.retrofit.NetStateReceiver;
+import app.tan.lib.util.NetUtils;
 import app.tan.lib.util.SmartBarUtils;
 import butterknife.ButterKnife;
 
@@ -142,6 +142,7 @@ public abstract class BaseFragmentActivity extends FragmentActivity {
         mScreenWidth = displayMetrics.widthPixels;
 
         // init NetChangeObserver start
+
         mNetChangeObserver = new NetChangeObserver() {
             @Override
             public void onNetConnected(NetUtils.NetType type) {

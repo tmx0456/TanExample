@@ -8,7 +8,7 @@ import android.view.View;
 
 import com.workingchat.newbee.R;
 
-import app.tan.lib.netstatus.NetUtils;
+import app.tan.lib.util.NetUtils;
 import butterknife.ButterKnife;
 
 public class BaseSubActivity extends BaseFragmentActivity implements View.OnClickListener {

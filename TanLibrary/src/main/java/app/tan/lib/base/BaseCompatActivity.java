@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
 import android.os.Bundle;
+import android.support.annotation.RequiresApi;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
@@ -17,19 +18,22 @@ import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
 
 import com.readystatesoftware.systembartint.SystemBarTintManager;
+import com.trello.rxlifecycle.components.support.RxAppCompatActivity;
 import com.workingchat.newbee.R;
 
 import java.util.Timer;
 import java.util.TimerTask;
 
 import app.tan.lib.loading.VaryViewHelperController;
-import app.tan.lib.netstatus.NetChangeObserver;
-import app.tan.lib.netstatus.NetStateReceiver;
-import app.tan.lib.netstatus.NetUtils;
+import app.tan.lib.retrofit.NetChangeObserver;
+import app.tan.lib.retrofit.NetStateReceiver;
+import app.tan.lib.retrofit.listener.HttpOnNextListener;
+import app.tan.lib.util.LogUtil;
+import app.tan.lib.util.NetUtils;
 import app.tan.lib.util.SmartBarUtils;
 import butterknife.ButterKnife;
 
-public abstract class BaseCompatActivity extends AppCompatActivity {
+public abstract class BaseCompatActivity extends RxAppCompatActivity implements View.OnClickListener, HttpOnNextListener {
 
     /**
      * Log tag
@@ -47,6 +51,7 @@ public abstract class BaseCompatActivity extends AppCompatActivity {
     private VaryViewHelperController mVaryViewHelperController = null;
     private NetChangeObserver mNetChangeObserver;
 
+    @RequiresApi(api = Build.VERSION_CODES.ECLAIR)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         if (toggleOverridePendingTransition()) {
@@ -75,7 +80,7 @@ public abstract class BaseCompatActivity extends AppCompatActivity {
         if (isApplyKitKatTranslucency()) {
             setSystemBarTintDrawable(getResources().getDrawable(R.drawable.sr_primary));
         }
-        initView(savedInstanceState);
+        init(savedInstanceState);
     }
 
     @Override
@@ -123,7 +128,7 @@ public abstract class BaseCompatActivity extends AppCompatActivity {
      * @param savedInstanceState
      */
 
-    private void initView(Bundle savedInstanceState) {
+    private void init(Bundle savedInstanceState) {
         BaseAppManager.getInstance().addActivity(this);
         TAG_LOG = this.getClass().getSimpleName();
 
@@ -133,7 +138,9 @@ public abstract class BaseCompatActivity extends AppCompatActivity {
         // base setup
         Bundle extras = getIntent().getExtras();
         if (null != extras) {
+            LogUtil.e("","extras =================  null");
             getBundleExtras(extras);
+
         }
         DisplayMetrics displayMetrics = new DisplayMetrics();
         getWindowManager().getDefaultDisplay().getMetrics(displayMetrics);
@@ -172,8 +179,11 @@ public abstract class BaseCompatActivity extends AppCompatActivity {
         //inject view
         ButterKnife.bind(this);
         // view init end
-        processLogic(savedInstanceState);
 
+
+        initView();
+        processLogic(savedInstanceState);
+        setListener();
     }
 
     /**
@@ -234,6 +244,10 @@ public abstract class BaseCompatActivity extends AppCompatActivity {
      */
     protected abstract View getLoadingTargetView();
 
+
+
+    protected abstract void initView();
+
     /**
      * 业务逻辑处理，主要与后端交互
      *
@@ -276,6 +290,7 @@ public abstract class BaseCompatActivity extends AppCompatActivity {
         finish();
     }
 
+    @RequiresApi(api = Build.VERSION_CODES.ECLAIR)
     @Override
     public void finish() {
         super.finish();

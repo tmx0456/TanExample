@@ -1,34 +1,32 @@
 package com.tmx.tanexamples.activity;
 
-import android.animation.Animator;
-import android.animation.AnimatorListenerAdapter;
 import android.os.Bundle;
-import android.support.design.widget.CoordinatorLayout;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
-import android.view.animation.OvershootInterpolator;
 import android.widget.ImageView;
-
+import android.widget.TextView;
+import android.widget.Toast;
 
 import com.tmx.tanexamples.R;
-import com.tmx.tanexamples.network.TanFactory;
-import com.tmx.tanexamples.network.TanInterface;
+import com.tmx.tanexamples.entity.api.SubjectApi;
 
 import app.tan.lib.base.BaseCompatActivity;
-import app.tan.lib.netstatus.NetUtils;
-import butterknife.BindString;
+import app.tan.lib.imageload.ImageLoaderManager;
+import app.tan.lib.retrofit.exception.ApiException;
+import app.tan.lib.retrofit.http.HttpManager;
+import app.tan.lib.util.NetUtils;
 import butterknife.BindView;
+
 
 /**
  * 主页面
  */
 public class MainActivity extends BaseCompatActivity {
-
+//    @BindView(R.id.text)
+    TextView text;
+//    @BindView(R.id.image)
+    ImageView image;
+    private HttpManager manager;
+    private SubjectApi subEntity;
 
     @Override
     protected boolean toggleOverridePendingTransition() {
@@ -58,6 +56,7 @@ public class MainActivity extends BaseCompatActivity {
     @Override
     protected void onNetworkConnected(NetUtils.NetType type) {
 
+
     }
 
     @Override
@@ -67,6 +66,7 @@ public class MainActivity extends BaseCompatActivity {
 
     @Override
     protected int getContentViewLayoutID() {
+
         return R.layout.activity_main;
     }
 
@@ -76,12 +76,48 @@ public class MainActivity extends BaseCompatActivity {
     }
 
     @Override
-    protected void processLogic(Bundle savedInstanceState) {
+    protected void initView() {
+        text = (TextView) findViewById(R.id.text);
+        image = (ImageView) findViewById(R.id.image);
 
     }
 
     @Override
-    protected void setListener() {
+    protected void processLogic(Bundle savedInstanceState) {
+        manager = new HttpManager(this, this);
+        subEntity = new SubjectApi();
+        subEntity.setUserName("ABCD");
+        subEntity.setPassWord("1234");
 
+        String url="http://i1.juyouqu.com/uploads/content/2013/09/1379337214350.jpg";
+        ImageLoaderManager.getInstance().showImage(ImageLoaderManager.getDefaultOptions(image,url));
     }
+
+    @Override
+    protected void setListener() {
+        image.setOnClickListener(this);
+        text.setOnClickListener(this);
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch (v.getId()) {
+            case R.id.text:
+                manager.doHttpDeal(subEntity);
+             break;
+            case  R.id.image:
+                Toast.makeText(this, "别点我", Toast.LENGTH_SHORT).show();
+        }
+    }
+
+    @Override
+    public void onNext(String resulte, String mothead) {
+        Toast.makeText(this, "登录成功", Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
+    public void onError(ApiException e) {
+        Toast.makeText(this, "登录失败" + e.getMessage(), Toast.LENGTH_SHORT).show();
+    }
+
 }
