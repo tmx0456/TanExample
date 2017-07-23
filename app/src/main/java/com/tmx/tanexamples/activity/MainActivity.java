@@ -84,7 +84,7 @@ public class MainActivity extends BaseCompatActivity {
 
     @Override
     protected void processLogic(Bundle savedInstanceState) {
-        manager = new HttpManager(this, this);
+        HttpManager manager = new HttpManager(this, this);
         subEntity = new SubjectApi();
         subEntity.setUserName("ABCD");
         subEntity.setPassWord("1234");

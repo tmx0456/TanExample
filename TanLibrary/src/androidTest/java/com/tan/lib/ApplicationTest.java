@@ -1,4 +1,4 @@
-package com.workingchat.newbee;
+package com.tan.lib;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
