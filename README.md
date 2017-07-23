@@ -8,7 +8,9 @@
 # 用法
 
 ## 图片框架
+
 ###对于第三方图片加载框架做了封装,可支持Glide,Fresco(ImageLoader,Picasso需自行封装),当不同的项目需要使用不同的框架时,直接修改封装类就可以了,如果项目中需要更换图片框架时,也不需要对代码进行修改
+
 ###使用前请在'Application'的'onCreate()'中进行初始化:
     ```java
     	ImageLoaderManager.getInstance().init(this);
@@ -18,9 +20,11 @@
     	ImageLoaderManager.getInstance().showImage(ImageLoaderManager.getDefaultOptions(image,url));
     ```
 ## 网络框架
+
 ###使用的是RxJava+Retrofit+OkHttp的方式,但是没有使用Gson解析数据,而是返回的String,如果需要可以自行转成Gson解析,或者其他的方式解析
 
 ###调用
+
 ####activity继承
      ```java
      public class MainActivity extends RxAppCompatActivity implements View.OnClickListener, HttpOnNextListener
@@ -29,6 +33,7 @@
      ```java
      HttpManager manager = new HttpManager(this, this);
      ```
+
 ####封装一个实体类继承'BaseApi'
 
 ####调用'manager.doHttpDeal();'传入实体类设置好的参数
