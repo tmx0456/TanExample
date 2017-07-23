@@ -29,7 +29,9 @@
      ```java
      public class MainActivity extends RxAppCompatActivity implements View.OnClickListener, HttpOnNextListener
      ```
+
 ####初始化对象
+
      ```java
      HttpManager manager = new HttpManager(this, this);
      ```
